@@ -1,0 +1,13 @@
+it's my first time using git, it was not that bad after searching and watching tutorials ..
+the process of adding file was easy and did not take much time (did not faced any issues at all)
+but when i get to the branches here the confussion started 
+
+(first issue)
+
+when i add file in one branch it was added in the other branches , 
+so i tried to delete them and add one file in each branch and add commit to each file 
+here it worked 
+
+(second)
+Merging took much time 
+i used push&pull and it worked
