@@ -1,0 +1,14 @@
+Visual Studio Live Share is a feature that allows you to collaboratively edit and debug code with others in real time within a codespace.
+  To create a codespace, you need to go to the repository page on GitHub that you want to work on and click the “Code” button. 
+  Then, select “Open with Codespaces” and click the “+” button. 
+  This will create a new codespace for that repository and open it in Visual Studio Code in your browser.
+  To share your codespace with others, you need to click the “Live Share” button on the bottom left corner of Visual Studio Code
+
+You can use pull requests to suggest new features, fix bugs, or improve existing code. 
+ Pull requests also allow you to review, comment, and merge changes from other contributors.
+  1-you need to fork the repository you want to contribute to. 
+  2-After forking the repository, you need to clone it to your local machine
+  3-Once you have cloned the repository, you need to create a new branch for your changes.
+  4-you need to make your changes in the new branch.
+  5-you need to push your branch to your forked repository on GitHub.
+  6-Now that you have pushed your branch to your forked repository, you can create a pull request on GitHub.
